@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jackson Rosenthal
+Sudent Email:  jrosen27@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In this assignment, we were asked to make a few helper functions using pandas commands to find column names in a dataset, file types,  loading a file, and with the goal being to help make creating a final code to analyze the numerical columns in a file, and allow you to also filter through the file you are asking it to analyze, through reading the dataset you put into the selectbox on streamlit. Through this assignment, I gained a better understanding of ways to make a list of columns, find the numerical columns from that list of columns, and take all unique values from each given column as well, then adding them all to a list so that you can filter through the database you read into streamlit, and use any possible filter you want to, using a column name and value from that column. I still need to better learn exactly how to put together a full streamlit code and apply helper codes to a different file in your vscode database. 
